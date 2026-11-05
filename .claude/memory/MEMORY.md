@@ -1,0 +1,1 @@
+- [Proyecto retrofit X31: reemplazo de planar por placa moderna](x31-retrofit-project.md) — teclado/trackpoint/batería/pantalla, hallazgos de esquemático+boardview+research externo
